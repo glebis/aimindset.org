@@ -26,7 +26,7 @@ The focus of AI Mindset extends beyond just technology; it also considers the ps
 ## What we do
 
 - **AI Mindset [knowledge] lab.** 8-week collaborative experience. Learn to build AI-first personal knowledge management workflows. Gain practical skills in automating information processes, developing personal AI assistants, and visualizing knowledge graphs. Capture everything, develop your thinking and build your projects. Collaborate with peers, enhance your productivity, and continuously improve your workflows with reliable AI tools. Use AI for meaningful automation.
-- **AI Mindset Lab**.  Learn practical applications of AI tools like Large Language Models (ChatGPT, Claude, open source models), image generation tools (Midjourney, StableDiffusion and others). Over 7 sessions, you'll master text and image AI tasks, automate processes, and develop skills applicable to business, research, and creative projects. Get hands-on experience with AI interfaces including web, voice, and API, and create your own AI-powered project by the end of the course.
+- **AI Mindset Lab**.  Learn practical applications of AI tools like Large Language Models (ChatGPT, Claude, open source models), image generation tools (Midjourney, StableDiffusion and others). Over 7 sessions, you'll master text and image AI tasks, automate processes, and develop skills applicable to business, research, and creative projects. Get hands-on experience with AI interfaces including web, voice, and API, and create your own AI-powered project by the end of the course. <a href="https://aimindset.notion.site/">More info</a>
 - **Salience {Obsidian plugin}**. We are building an AI workflow automation plugin. Implement agentic chains with or without human in the loop, right inside Obsidian. Capture, process and store articles, audio transcripts, videos, podcasts, chat archives and other format. Analyse, format, translate, unify and restructure based on prompts. (In Private beta.)
 
 ## Who we are
@@ -39,8 +39,8 @@ The focus of AI Mindset extends beyond just technology; it also considers the ps
 
 We help businesses, communities and invidivuals
 
-- develop AI strategy and implement tactics
-- build effective AI-first workflows
-- find cost-effective solutions (open and proprietary)
+- Develop AI strategy and implement tactics
+- Build effective AI-first workflows
+- Find cost-effective AI-solutions (open and proprietary) for your tasks
 
-[Book a call with us](https://cal.com/team/ai-mindset/ai-mindset-team-call)
+**[Book a call with us](https://cal.com/team/ai-mindset/ai-mindset-team-call)**
