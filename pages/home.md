@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 0
 ---
 
-**AI Mindset** is an independent distributed collective of AI enthusiast and development. We build an online community, create project-based educational experience with AI and develop custom AI-based software.
+**AI Mindset** is an independent distributed collective of AI enthusiast and developers. We build an online community, create project-based educational experience with AI and develop custom AI-based software.
 
 
 
