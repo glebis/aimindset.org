@@ -1,8 +1,8 @@
 ---
 layout: layouts/home.njk
-title: Об AI Mindset
+title: AI Mindset
 date: 2016-01-01T00:00:00.000Z
-permalink: /ru
+permalink: /ru/
 eleventyNavigation:
   key: По-русски
   order: 0
