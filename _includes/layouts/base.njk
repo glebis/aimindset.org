@@ -6,9 +6,12 @@
 	<body>
 
 		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
+			<div class="header-brand">
+				<img src="/static/img/aimindset-logo.png" alt="{{ metadata.title }} logo" class="site-logo">
+				<em>
+					<a href="{{ '/' | url }}">{{ metadata.title }}</a>
+				</em>
+			</div>
 			{% include "components/nav.njk" %}
 
 
